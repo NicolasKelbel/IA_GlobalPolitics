@@ -187,6 +187,26 @@
       \verb https://dictionary.cambridge.org/de/worterbuch/englisch/security
       \endverb
     \endentry
+    \entry{noauthor_smart_nodate}{online}{}
+      \field{sortinit}{S}
+      \field{sortinithash}{b164b07b29984b41daf1e85279fbc5ab}
+      \field{labeldatesource}{nodate}
+      \field{labeltitlesource}{title}
+      \field{abstract}{Das Projekt Smart Cities vernetzt Technologie und Infrastruktur miteinander, um die Lebensqualität der Menschen in Darmstadt zu verbessern.}
+      \field{langid}{german}
+      \field{title}{Smart City Darmstadt}
+      \field{titleaddon}{Wissenschaftsstadt Darmstadt}
+      \field{urlday}{29}
+      \field{urlmonth}{7}
+      \field{urlyear}{2025}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb https://www.darmstadt.de/standort/smart-city
+      \endverb
+      \verb{url}
+      \verb https://www.darmstadt.de/standort/smart-city
+      \endverb
+    \endentry
     \entry{noauthor_special_nodate}{online}{}
       \field{sortinit}{S}
       \field{sortinithash}{b164b07b29984b41daf1e85279fbc5ab}
@@ -374,6 +394,26 @@
       \endverb
       \verb{url}
       \verb https://dictionary.cambridge.org/de/worterbuch/englisch/security
+      \endverb
+    \endentry
+    \entry{noauthor_smart_nodate}{online}{}
+      \field{sortinit}{S}
+      \field{sortinithash}{b164b07b29984b41daf1e85279fbc5ab}
+      \field{labeldatesource}{nodate}
+      \field{labeltitlesource}{title}
+      \field{abstract}{Das Projekt Smart Cities vernetzt Technologie und Infrastruktur miteinander, um die Lebensqualität der Menschen in Darmstadt zu verbessern.}
+      \field{langid}{german}
+      \field{title}{Smart City Darmstadt}
+      \field{titleaddon}{Wissenschaftsstadt Darmstadt}
+      \field{urlday}{29}
+      \field{urlmonth}{7}
+      \field{urlyear}{2025}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb https://www.darmstadt.de/standort/smart-city
+      \endverb
+      \verb{url}
+      \verb https://www.darmstadt.de/standort/smart-city
       \endverb
     \endentry
     \entry{noauthor_special_nodate}{online}{}
