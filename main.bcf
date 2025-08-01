@@ -3062,8 +3062,11 @@
     <bcf:citekey order="1" intorder="1">noauthor_security_2025</bcf:citekey>
     <bcf:citekey order="2" intorder="1">noauthor_collective_2025</bcf:citekey>
     <bcf:citekey order="3" intorder="1">nandy2023</bcf:citekey>
-    <bcf:citekey order="4" intorder="1">mdrde_uberwachung_nodate</bcf:citekey>
-    <bcf:citekey order="5" intorder="1">lichter_loeffler_siegloch2016</bcf:citekey>
+    <bcf:citekey order="4" intorder="1">noauthor_special_nodate</bcf:citekey>
+    <bcf:citekey order="5" intorder="1">mdrde_uberwachung_nodate</bcf:citekey>
+    <bcf:citekey order="6" intorder="1">lichter_loeffler_siegloch2016</bcf:citekey>
+    <bcf:citekey order="7" intorder="1">murray2024</bcf:citekey>
+    <bcf:citekey order="8" intorder="1">noauthor_peasec_2025</bcf:citekey>
   </bcf:section>
   <!-- SORTING TEMPLATES -->
   <bcf:sortingtemplate name="apa">

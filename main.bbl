@@ -129,6 +129,82 @@
       \verb https://www.mdr.de/geschichte/ns-zeit/politik-gesellschaft/sicherheitsdienst-nationalsozialismus-exklusive-akten-100.html
       \endverb
     \endentry
+    \entry{murray2024}{article}{}
+      \name{author}{7}{}{%
+        {{un=0,uniquepart=base,hash=aa2e5a5799145674755b37a19e1efc1f}{%
+           family={Murray},
+           familyi={M\bibinitperiod},
+           given={Daragh},
+           giveni={D\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=3277ec797c15d88867e16fe3137d7606}{%
+           family={Fussey},
+           familyi={F\bibinitperiod},
+           given={Pete},
+           giveni={P\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=f5049ddf7225a56d04949a9c8aa6ec25}{%
+           family={Hove},
+           familyi={H\bibinitperiod},
+           given={Kuda},
+           giveni={K\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=738cd47c0fa4eec83e75bdb04819eade}{%
+           family={Wakabi},
+           familyi={W\bibinitperiod},
+           given={Wairagala},
+           giveni={W\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=e3bd1cfd92a1803a744d529aa0f45969}{%
+           family={Kimumwe},
+           familyi={K\bibinitperiod},
+           given={Paul},
+           giveni={P\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=3e4373827bb58422f5f89865b2777d3c}{%
+           family={Saki},
+           familyi={S\bibinitperiod},
+           given={Otto},
+           giveni={O\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=eb649460978b0b384175280f2db4a9dc}{%
+           family={Stevens},
+           familyi={S\bibinitperiod},
+           given={Amy},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{bb5be91d7ed4a7d18fd26a860bbe3e6f}
+      \strng{fullhash}{4b8e6816ff3b6a28950e7a6f3bbfdd86}
+      \strng{bibnamehash}{4b8e6816ff3b6a28950e7a6f3bbfdd86}
+      \strng{authorbibnamehash}{4b8e6816ff3b6a28950e7a6f3bbfdd86}
+      \strng{authornamehash}{bb5be91d7ed4a7d18fd26a860bbe3e6f}
+      \strng{authorfullhash}{4b8e6816ff3b6a28950e7a6f3bbfdd86}
+      \field{sortinit}{M}
+      \field{sortinithash}{4625c616857f13d17ce56f7d4f97d451}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Journal of Human Rights Practice}
+      \field{month}{2}
+      \field{number}{1}
+      \field{title}{The Chilling Effects of Surveillance and Human Rights: Insights from Qualitative Research in Uganda and Zimbabwe}
+      \field{volume}{16}
+      \field{year}{2024}
+      \field{pages}{397\bibrangedash 412}
+      \range{pages}{16}
+      \verb{doi}
+      \verb 10.1093/jhuman/huad020
+      \endverb
+      \verb{urlraw}
+      \verb https://doi.org/10.1093/jhuman/huad020
+      \endverb
+      \verb{url}
+      \verb https://doi.org/10.1093/jhuman/huad020
+      \endverb
+    \endentry
     \entry{nandy2023}{article}{}
       \name{author}{1}{}{%
         {{un=0,uniquepart=base,hash=8bd6887eca436f7639e1f5df1c115d6a}{%
@@ -163,6 +239,29 @@
       \verb 10.15575/jcspi.v1i1.442
       \endverb
     \endentry
+    \entry{noauthor_peasec_2025}{online}{}
+      \field{sortinit}{P}
+      \field{sortinithash}{ff3bcf24f47321b42cb156c2cc8a8422}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labeltitlesource}{title}
+      \field{day}{22}
+      \field{langid}{american}
+      \field{month}{8}
+      \field{title}{{PEASEC} – Science and Technology for Peace and Security}
+      \field{urlday}{1}
+      \field{urlmonth}{8}
+      \field{urlyear}{2025}
+      \field{year}{2025}
+      \field{dateera}{ce}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb https://peasec.de/
+      \endverb
+      \verb{url}
+      \verb https://peasec.de/
+      \endverb
+    \endentry
     \entry{noauthor_security_2025}{online}{}
       \field{sortinit}{S}
       \field{sortinithash}{b164b07b29984b41daf1e85279fbc5ab}
@@ -185,26 +284,6 @@
       \endverb
       \verb{url}
       \verb https://dictionary.cambridge.org/de/worterbuch/englisch/security
-      \endverb
-    \endentry
-    \entry{noauthor_smart_nodate}{online}{}
-      \field{sortinit}{S}
-      \field{sortinithash}{b164b07b29984b41daf1e85279fbc5ab}
-      \field{labeldatesource}{nodate}
-      \field{labeltitlesource}{title}
-      \field{abstract}{Das Projekt Smart Cities vernetzt Technologie und Infrastruktur miteinander, um die Lebensqualität der Menschen in Darmstadt zu verbessern.}
-      \field{langid}{german}
-      \field{title}{Smart City Darmstadt}
-      \field{titleaddon}{Wissenschaftsstadt Darmstadt}
-      \field{urlday}{29}
-      \field{urlmonth}{7}
-      \field{urlyear}{2025}
-      \field{urldateera}{ce}
-      \verb{urlraw}
-      \verb https://www.darmstadt.de/standort/smart-city
-      \endverb
-      \verb{url}
-      \verb https://www.darmstadt.de/standort/smart-city
       \endverb
     \endentry
     \entry{noauthor_special_nodate}{online}{}
@@ -338,6 +417,82 @@
       \verb https://www.mdr.de/geschichte/ns-zeit/politik-gesellschaft/sicherheitsdienst-nationalsozialismus-exklusive-akten-100.html
       \endverb
     \endentry
+    \entry{murray2024}{article}{}
+      \name{author}{7}{}{%
+        {{un=0,uniquepart=base,hash=aa2e5a5799145674755b37a19e1efc1f}{%
+           family={Murray},
+           familyi={M\bibinitperiod},
+           given={Daragh},
+           giveni={D\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=3277ec797c15d88867e16fe3137d7606}{%
+           family={Fussey},
+           familyi={F\bibinitperiod},
+           given={Pete},
+           giveni={P\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=f5049ddf7225a56d04949a9c8aa6ec25}{%
+           family={Hove},
+           familyi={H\bibinitperiod},
+           given={Kuda},
+           giveni={K\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=738cd47c0fa4eec83e75bdb04819eade}{%
+           family={Wakabi},
+           familyi={W\bibinitperiod},
+           given={Wairagala},
+           giveni={W\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=e3bd1cfd92a1803a744d529aa0f45969}{%
+           family={Kimumwe},
+           familyi={K\bibinitperiod},
+           given={Paul},
+           giveni={P\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=3e4373827bb58422f5f89865b2777d3c}{%
+           family={Saki},
+           familyi={S\bibinitperiod},
+           given={Otto},
+           giveni={O\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=eb649460978b0b384175280f2db4a9dc}{%
+           family={Stevens},
+           familyi={S\bibinitperiod},
+           given={Amy},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{bb5be91d7ed4a7d18fd26a860bbe3e6f}
+      \strng{fullhash}{4b8e6816ff3b6a28950e7a6f3bbfdd86}
+      \strng{bibnamehash}{4b8e6816ff3b6a28950e7a6f3bbfdd86}
+      \strng{authorbibnamehash}{4b8e6816ff3b6a28950e7a6f3bbfdd86}
+      \strng{authornamehash}{bb5be91d7ed4a7d18fd26a860bbe3e6f}
+      \strng{authorfullhash}{4b8e6816ff3b6a28950e7a6f3bbfdd86}
+      \field{sortinit}{M}
+      \field{sortinithash}{4625c616857f13d17ce56f7d4f97d451}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Journal of Human Rights Practice}
+      \field{month}{2}
+      \field{number}{1}
+      \field{title}{The Chilling Effects of Surveillance and Human Rights: Insights from Qualitative Research in Uganda and Zimbabwe}
+      \field{volume}{16}
+      \field{year}{2024}
+      \field{pages}{397\bibrangedash 412}
+      \range{pages}{16}
+      \verb{doi}
+      \verb 10.1093/jhuman/huad020
+      \endverb
+      \verb{urlraw}
+      \verb https://doi.org/10.1093/jhuman/huad020
+      \endverb
+      \verb{url}
+      \verb https://doi.org/10.1093/jhuman/huad020
+      \endverb
+    \endentry
     \entry{nandy2023}{article}{}
       \name{author}{1}{}{%
         {{un=0,uniquepart=base,hash=8bd6887eca436f7639e1f5df1c115d6a}{%
@@ -372,6 +527,29 @@
       \verb 10.15575/jcspi.v1i1.442
       \endverb
     \endentry
+    \entry{noauthor_peasec_2025}{online}{}
+      \field{sortinit}{P}
+      \field{sortinithash}{ff3bcf24f47321b42cb156c2cc8a8422}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labeltitlesource}{title}
+      \field{day}{22}
+      \field{langid}{american}
+      \field{month}{8}
+      \field{title}{{PEASEC} – Science and Technology for Peace and Security}
+      \field{urlday}{1}
+      \field{urlmonth}{8}
+      \field{urlyear}{2025}
+      \field{year}{2025}
+      \field{dateera}{ce}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb https://peasec.de/
+      \endverb
+      \verb{url}
+      \verb https://peasec.de/
+      \endverb
+    \endentry
     \entry{noauthor_security_2025}{online}{}
       \field{sortinit}{S}
       \field{sortinithash}{b164b07b29984b41daf1e85279fbc5ab}
@@ -394,26 +572,6 @@
       \endverb
       \verb{url}
       \verb https://dictionary.cambridge.org/de/worterbuch/englisch/security
-      \endverb
-    \endentry
-    \entry{noauthor_smart_nodate}{online}{}
-      \field{sortinit}{S}
-      \field{sortinithash}{b164b07b29984b41daf1e85279fbc5ab}
-      \field{labeldatesource}{nodate}
-      \field{labeltitlesource}{title}
-      \field{abstract}{Das Projekt Smart Cities vernetzt Technologie und Infrastruktur miteinander, um die Lebensqualität der Menschen in Darmstadt zu verbessern.}
-      \field{langid}{german}
-      \field{title}{Smart City Darmstadt}
-      \field{titleaddon}{Wissenschaftsstadt Darmstadt}
-      \field{urlday}{29}
-      \field{urlmonth}{7}
-      \field{urlyear}{2025}
-      \field{urldateera}{ce}
-      \verb{urlraw}
-      \verb https://www.darmstadt.de/standort/smart-city
-      \endverb
-      \verb{url}
-      \verb https://www.darmstadt.de/standort/smart-city
       \endverb
     \endentry
     \entry{noauthor_special_nodate}{online}{}
