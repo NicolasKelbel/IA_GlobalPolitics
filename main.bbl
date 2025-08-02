@@ -19,6 +19,104 @@
 
 \refsection{0}
   \datalist[entry]{apa/apasortcite//global/global}
+    \entry{grundgesetz2025}{legislation}{}
+      \list{language}{1}{%
+        {english}%
+      }
+      \field{sortinit}{B}
+      \field{sortinithash}{d7095fff47cda75ca2589920aae98399}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labeltitlesource}{title}
+      \field{day}{22}
+      \field{month}{3}
+      \field{note}{Federal Law Gazette Part III, classification number 100-1; amended by Federal Law Gazette 2025 I, No. 94}
+      \field{subtitle}{In the revised version published in the Federal Law Gazette Part III, classification number 100-1, as last amended by the Act of 22 March 2025 (Federal Law Gazette 2025 I, No. 94)}
+      \field{title}{Basic Law for the Federal Republic of Germany}
+      \field{year}{2025}
+      \field{dateera}{ce}
+    \endentry
+    \entry{bell2014}{article}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=694be97e2461daad8c74a74f90cb0205}{%
+           family={Bell},
+           familyi={B\bibinitperiod},
+           given={Duncan},
+           giveni={D\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {Sage Publications, Inc.}%
+      }
+      \strng{namehash}{694be97e2461daad8c74a74f90cb0205}
+      \strng{fullhash}{694be97e2461daad8c74a74f90cb0205}
+      \strng{bibnamehash}{694be97e2461daad8c74a74f90cb0205}
+      \strng{authorbibnamehash}{694be97e2461daad8c74a74f90cb0205}
+      \strng{authornamehash}{694be97e2461daad8c74a74f90cb0205}
+      \strng{authorfullhash}{694be97e2461daad8c74a74f90cb0205}
+      \field{sortinit}{B}
+      \field{sortinithash}{d7095fff47cda75ca2589920aae98399}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{Liberalism is a term employed in a dizzying variety of ways in political thought and social science. This essay challenges how the liberal tradition is typically understood. I start by delineating different types of response—prescriptive, comprehensive, explanatory—that are frequently conflated in answering the question "what is liberalism?" I then discuss assorted methodological strategies employed in the existing literature: after rejecting "stipulative" and "canonical" approaches, I outline a contextualist alternative. Liberalism, on this (comprehensive) account, is best characterised as the sum of the arguments that have been classified as liberal, and recognised as such by other self-proclaimed liberals, over time and space. In the remainder of the article, I present an historical analysis of shifts in the meaning of liberalism in Anglo-American political thought between 1850 and 1950, focusing in particular on how Locke came to be characterised as a liberal. I argue that the scope of the liberal tradition expanded during the middle decades of the twentieth century, such that it came to be seen by many as the constitutive ideology of the West. This capacious (and deeply confusing) understanding of liberalism was a product of the ideological wars fought against "totalitarianism" and assorted developments in the social sciences. Today we both inherit and inhabit it.}
+      \field{issn}{0090-5917, 1552-7476}
+      \field{journaltitle}{Political Theory}
+      \field{number}{6}
+      \field{title}{What Is Liberalism?}
+      \field{urlday}{2}
+      \field{urlmonth}{8}
+      \field{urlyear}{2025}
+      \field{volume}{42}
+      \field{year}{2014}
+      \field{urldateera}{ce}
+      \field{pages}{682\bibrangedash 715}
+      \range{pages}{34}
+      \verb{urlraw}
+      \verb http://www.jstor.org/stable/24571524
+      \endverb
+      \verb{url}
+      \verb http://www.jstor.org/stable/24571524
+      \endverb
+    \endentry
+    \entry{bildung_korperliche_nodate}{online}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=a94af53bb68b0ab030a324085fdd540e}{%
+           family={Bildung},
+           familyi={B\bibinitperiod},
+           given={Bundeszentrale\bibnamedelimb für\bibnamedelima politische},
+           giveni={B\bibinitperiod\bibinitdelim f\bibinitperiod\bibinitdelim p\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{a94af53bb68b0ab030a324085fdd540e}
+      \strng{fullhash}{a94af53bb68b0ab030a324085fdd540e}
+      \strng{bibnamehash}{a94af53bb68b0ab030a324085fdd540e}
+      \strng{authorbibnamehash}{a94af53bb68b0ab030a324085fdd540e}
+      \strng{authornamehash}{a94af53bb68b0ab030a324085fdd540e}
+      \strng{authorfullhash}{a94af53bb68b0ab030a324085fdd540e}
+      \field{sortinit}{B}
+      \field{sortinithash}{d7095fff47cda75ca2589920aae98399}
+      \field{labeldatesource}{nodate}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{Die körperliche Unversehrtheit ist ein Grundrecht aller Menschen. Jeder Mensch hat das Recht darauf, dass sein Körper und sein Geist vom Staat nicht verletzt, sondern geschützt wird.}
+      \field{langid}{german}
+      \field{title}{Körperliche Unversehrtheit}
+      \field{titleaddon}{bpb.de}
+      \field{urlday}{2}
+      \field{urlmonth}{8}
+      \field{urlyear}{2025}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb https://www.bpb.de/kurz-knapp/lexika/lexikon-in-einfacher-sprache/249952/koerperliche-unversehrtheit/
+      \endverb
+      \verb{url}
+      \verb https://www.bpb.de/kurz-knapp/lexika/lexikon-in-einfacher-sprache/249952/koerperliche-unversehrtheit/
+      \endverb
+    \endentry
     \entry{noauthor_collective_2025}{online}{}
       \field{sortinit}{D}
       \field{sortinithash}{6f385f66841fb5e82009dc833c761848}
@@ -41,6 +139,120 @@
       \endverb
       \verb{url}
       \verb https://www.merriam-webster.com/dictionary/collective
+      \endverb
+    \endentry
+    \entry{harbath_cambridge_2023}{online}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=6d12e946039c65426b53d683bf7a6b7e}{%
+           family={Harbath},
+           familyi={H\bibinitperiod},
+           given={Katie},
+           giveni={K\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=fd7c186074c8d7cb940c7dc284669567}{%
+           family={Fernekes},
+           familyi={F\bibinitperiod},
+           given={Collier},
+           giveni={C\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{organization}{1}{%
+        {Bipartisan Policy Center}%
+      }
+      \strng{namehash}{fa2afc0afca12231f71841f21fea7713}
+      \strng{fullhash}{fa2afc0afca12231f71841f21fea7713}
+      \strng{bibnamehash}{fa2afc0afca12231f71841f21fea7713}
+      \strng{authorbibnamehash}{fa2afc0afca12231f71841f21fea7713}
+      \strng{authornamehash}{fa2afc0afca12231f71841f21fea7713}
+      \strng{authorfullhash}{fa2afc0afca12231f71841f21fea7713}
+      \field{sortinit}{H}
+      \field{sortinithash}{23a3aa7c24e56cfa16945d55545109b5}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{month}{3}
+      \field{note}{Accessed: 2025-08-02}
+      \field{title}{History of the Cambridge Analytica Controversy}
+      \field{year}{2023}
+      \verb{urlraw}
+      \verb https://www.bipartisanpolicy.org/blog/cambridge-analytica-controversy/
+      \endverb
+      \verb{url}
+      \verb https://www.bipartisanpolicy.org/blog/cambridge-analytica-controversy/
+      \endverb
+    \endentry
+    \entry{jumarang2011}{online}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=3acbf0db28a6b6977cecb4cdd69a28c9}{%
+           family={Jumarang},
+           familyi={J\bibinitperiod},
+           given={Bea\bibnamedelima Kylene},
+           giveni={B\bibinitperiod\bibinitdelim K\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{institution}{1}{%
+        {E-International Relations}%
+      }
+      \strng{namehash}{3acbf0db28a6b6977cecb4cdd69a28c9}
+      \strng{fullhash}{3acbf0db28a6b6977cecb4cdd69a28c9}
+      \strng{bibnamehash}{3acbf0db28a6b6977cecb4cdd69a28c9}
+      \strng{authorbibnamehash}{3acbf0db28a6b6977cecb4cdd69a28c9}
+      \strng{authornamehash}{3acbf0db28a6b6977cecb4cdd69a28c9}
+      \strng{authorfullhash}{3acbf0db28a6b6977cecb4cdd69a28c9}
+      \field{sortinit}{J}
+      \field{sortinithash}{b2f54a9081ace9966a7cb9413811edb4}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{month}{7}
+      \field{note}{Written at De La Salle University Manila, Philippines (DLSU-M), for Mr. Al James D. Untalan. Accessed: 2025-08-02}
+      \field{title}{Realism and Liberalism in Modern International Relations}
+      \field{year}{2011}
+      \verb{urlraw}
+      \verb https://www.e-ir.info/2011/07/02/realism-and-liberalism-in-modern-international-relations/
+      \endverb
+      \verb{url}
+      \verb https://www.e-ir.info/2011/07/02/realism-and-liberalism-in-modern-international-relations/
+      \endverb
+    \endentry
+    \entry{koptyug2025}{online}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=9695a222a0d2bfa300c86e6cf0033a67}{%
+           family={Koptyug},
+           familyi={K\bibinitperiod},
+           given={Evgenia},
+           giveni={E\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {Statista}%
+      }
+      \strng{namehash}{9695a222a0d2bfa300c86e6cf0033a67}
+      \strng{fullhash}{9695a222a0d2bfa300c86e6cf0033a67}
+      \strng{bibnamehash}{9695a222a0d2bfa300c86e6cf0033a67}
+      \strng{authorbibnamehash}{9695a222a0d2bfa300c86e6cf0033a67}
+      \strng{authornamehash}{9695a222a0d2bfa300c86e6cf0033a67}
+      \strng{authorfullhash}{9695a222a0d2bfa300c86e6cf0033a67}
+      \field{sortinit}{K}
+      \field{sortinithash}{c02bf6bff1c488450c352b40f5d853ab}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{month}{1}
+      \field{note}{Accessed: 2025-08-02}
+      \field{title}{Social Media in Germany -- Statistics \& Facts}
+      \field{year}{2025}
+      \verb{urlraw}
+      \verb https://www.statista.com/topics/12991/social-media-in-germany/
+      \endverb
+      \verb{url}
+      \verb https://www.statista.com/topics/12991/social-media-in-germany/
       \endverb
     \endentry
     \entry{lichter_loeffler_siegloch2016}{report}{}
@@ -128,6 +340,51 @@
       \verb{url}
       \verb https://www.mdr.de/geschichte/ns-zeit/politik-gesellschaft/sicherheitsdienst-nationalsozialismus-exklusive-akten-100.html
       \endverb
+    \endentry
+    \entry{courseCompanion2024}{book}{}
+      \name{author}{3}{}{%
+        {{un=0,uniquepart=base,hash=6e41bbe7d2d710dae66fefb719d9e286}{%
+           family={Mooij},
+           familyi={M\bibinitperiod},
+           given={Chiel},
+           giveni={C\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=4fc8cbfee3d93b9599003c3e2525b3f3}{%
+           family={Dhesi},
+           familyi={D\bibinitperiod},
+           given={Emma},
+           giveni={E\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=8435c56389fbe318eccbe1ac1317d749}{%
+           family={Nusseibeh},
+           familyi={N\bibinitperiod},
+           given={Alia},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{location}{1}{%
+        {Oxford}%
+      }
+      \list{publisher}{1}{%
+        {Oxford University Press}%
+      }
+      \strng{namehash}{558827bebc40b49e63c5152315db115c}
+      \strng{fullhash}{fc43387709a8072854b74fab3ef96899}
+      \strng{bibnamehash}{fc43387709a8072854b74fab3ef96899}
+      \strng{authorbibnamehash}{fc43387709a8072854b74fab3ef96899}
+      \strng{authornamehash}{558827bebc40b49e63c5152315db115c}
+      \strng{authorfullhash}{fc43387709a8072854b74fab3ef96899}
+      \field{sortinit}{M}
+      \field{sortinithash}{4625c616857f13d17ce56f7d4f97d451}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{edition}{2024}
+      \field{subtitle}{Oxford Resources for IB Diploma Programme}
+      \field{title}{Global Politics Course Companion}
+      \field{year}{2024}
     \endentry
     \entry{murray2024}{article}{}
       \name{author}{7}{}{%
@@ -303,10 +560,175 @@
       \endverb
       \verb{url}
       \verb https://www.ohchr.org/en/special-procedures/sr-freedom-of-opinion-and-expression
+      \endverb
+    \endentry
+    \entry{wetzling2023}{report}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=705223ed3b5e25ff08ab6daf91e1094d}{%
+           family={Wetzling},
+           familyi={W\bibinitperiod},
+           given={Thorsten},
+           giveni={T\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{institution}{2}{%
+        {Strauss Center for International Security}%
+        {Law, University of Texas at Austin}%
+      }
+      \strng{namehash}{705223ed3b5e25ff08ab6daf91e1094d}
+      \strng{fullhash}{705223ed3b5e25ff08ab6daf91e1094d}
+      \strng{bibnamehash}{705223ed3b5e25ff08ab6daf91e1094d}
+      \strng{authorbibnamehash}{705223ed3b5e25ff08ab6daf91e1094d}
+      \strng{authornamehash}{705223ed3b5e25ff08ab6daf91e1094d}
+      \strng{authorfullhash}{705223ed3b5e25ff08ab6daf91e1094d}
+      \field{sortinit}{W}
+      \field{sortinithash}{4315d78024d0cea9b57a0c6f0e35ed0d}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{month}{11}
+      \field{series}{Safe and Free: National Security Surveillance and the Rule of Law Across Democratic States}
+      \field{title}{National Security Surveillance in Germany}
+      \field{type}{techreport}
+      \field{year}{2023}
+      \verb{urlraw}
+      \verb https://safeandfree.io/wp-content/uploads/2023/11/Germany_Surveillance_FINAL.pdf
+      \endverb
+      \verb{url}
+      \verb https://safeandfree.io/wp-content/uploads/2023/11/Germany_Surveillance_FINAL.pdf
+      \endverb
+    \endentry
+    \entry{worldometer_germany2025}{online}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=963a563c339e60d42f76f5ec12b3bb8e}{%
+           family={{Worldometer}},
+           familyi={W\bibinitperiod}}}%
+      }
+      \strng{namehash}{963a563c339e60d42f76f5ec12b3bb8e}
+      \strng{fullhash}{963a563c339e60d42f76f5ec12b3bb8e}
+      \strng{bibnamehash}{963a563c339e60d42f76f5ec12b3bb8e}
+      \strng{authorbibnamehash}{963a563c339e60d42f76f5ec12b3bb8e}
+      \strng{authornamehash}{963a563c339e60d42f76f5ec12b3bb8e}
+      \strng{authorfullhash}{963a563c339e60d42f76f5ec12b3bb8e}
+      \field{sortinit}{W}
+      \field{sortinithash}{4315d78024d0cea9b57a0c6f0e35ed0d}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{note}{Accessed: 2025-08-02}
+      \field{title}{Germany Population (2025) - Worldometer}
+      \field{year}{2025}
+      \verb{urlraw}
+      \verb https://www.worldometers.info/world-population/germany-population/
+      \endverb
+      \verb{url}
+      \verb https://www.worldometers.info/world-population/germany-population/
       \endverb
     \endentry
   \enddatalist
   \datalist[entry]{apa/global//global/global}
+    \entry{grundgesetz2025}{legislation}{}
+      \list{language}{1}{%
+        {english}%
+      }
+      \field{sortinit}{B}
+      \field{sortinithash}{d7095fff47cda75ca2589920aae98399}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labeltitlesource}{title}
+      \field{day}{22}
+      \field{month}{3}
+      \field{note}{Federal Law Gazette Part III, classification number 100-1; amended by Federal Law Gazette 2025 I, No. 94}
+      \field{subtitle}{In the revised version published in the Federal Law Gazette Part III, classification number 100-1, as last amended by the Act of 22 March 2025 (Federal Law Gazette 2025 I, No. 94)}
+      \field{title}{Basic Law for the Federal Republic of Germany}
+      \field{year}{2025}
+      \field{dateera}{ce}
+    \endentry
+    \entry{bell2014}{article}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=694be97e2461daad8c74a74f90cb0205}{%
+           family={Bell},
+           familyi={B\bibinitperiod},
+           given={Duncan},
+           giveni={D\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {Sage Publications, Inc.}%
+      }
+      \strng{namehash}{694be97e2461daad8c74a74f90cb0205}
+      \strng{fullhash}{694be97e2461daad8c74a74f90cb0205}
+      \strng{bibnamehash}{694be97e2461daad8c74a74f90cb0205}
+      \strng{authorbibnamehash}{694be97e2461daad8c74a74f90cb0205}
+      \strng{authornamehash}{694be97e2461daad8c74a74f90cb0205}
+      \strng{authorfullhash}{694be97e2461daad8c74a74f90cb0205}
+      \field{sortinit}{B}
+      \field{sortinithash}{d7095fff47cda75ca2589920aae98399}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{Liberalism is a term employed in a dizzying variety of ways in political thought and social science. This essay challenges how the liberal tradition is typically understood. I start by delineating different types of response—prescriptive, comprehensive, explanatory—that are frequently conflated in answering the question "what is liberalism?" I then discuss assorted methodological strategies employed in the existing literature: after rejecting "stipulative" and "canonical" approaches, I outline a contextualist alternative. Liberalism, on this (comprehensive) account, is best characterised as the sum of the arguments that have been classified as liberal, and recognised as such by other self-proclaimed liberals, over time and space. In the remainder of the article, I present an historical analysis of shifts in the meaning of liberalism in Anglo-American political thought between 1850 and 1950, focusing in particular on how Locke came to be characterised as a liberal. I argue that the scope of the liberal tradition expanded during the middle decades of the twentieth century, such that it came to be seen by many as the constitutive ideology of the West. This capacious (and deeply confusing) understanding of liberalism was a product of the ideological wars fought against "totalitarianism" and assorted developments in the social sciences. Today we both inherit and inhabit it.}
+      \field{issn}{0090-5917, 1552-7476}
+      \field{journaltitle}{Political Theory}
+      \field{number}{6}
+      \field{title}{What Is Liberalism?}
+      \field{urlday}{2}
+      \field{urlmonth}{8}
+      \field{urlyear}{2025}
+      \field{volume}{42}
+      \field{year}{2014}
+      \field{urldateera}{ce}
+      \field{pages}{682\bibrangedash 715}
+      \range{pages}{34}
+      \verb{urlraw}
+      \verb http://www.jstor.org/stable/24571524
+      \endverb
+      \verb{url}
+      \verb http://www.jstor.org/stable/24571524
+      \endverb
+    \endentry
+    \entry{bildung_korperliche_nodate}{online}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=a94af53bb68b0ab030a324085fdd540e}{%
+           family={Bildung},
+           familyi={B\bibinitperiod},
+           given={Bundeszentrale\bibnamedelimb für\bibnamedelima politische},
+           giveni={B\bibinitperiod\bibinitdelim f\bibinitperiod\bibinitdelim p\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{a94af53bb68b0ab030a324085fdd540e}
+      \strng{fullhash}{a94af53bb68b0ab030a324085fdd540e}
+      \strng{bibnamehash}{a94af53bb68b0ab030a324085fdd540e}
+      \strng{authorbibnamehash}{a94af53bb68b0ab030a324085fdd540e}
+      \strng{authornamehash}{a94af53bb68b0ab030a324085fdd540e}
+      \strng{authorfullhash}{a94af53bb68b0ab030a324085fdd540e}
+      \field{sortinit}{B}
+      \field{sortinithash}{d7095fff47cda75ca2589920aae98399}
+      \field{labeldatesource}{nodate}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{Die körperliche Unversehrtheit ist ein Grundrecht aller Menschen. Jeder Mensch hat das Recht darauf, dass sein Körper und sein Geist vom Staat nicht verletzt, sondern geschützt wird.}
+      \field{langid}{german}
+      \field{title}{Körperliche Unversehrtheit}
+      \field{titleaddon}{bpb.de}
+      \field{urlday}{2}
+      \field{urlmonth}{8}
+      \field{urlyear}{2025}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb https://www.bpb.de/kurz-knapp/lexika/lexikon-in-einfacher-sprache/249952/koerperliche-unversehrtheit/
+      \endverb
+      \verb{url}
+      \verb https://www.bpb.de/kurz-knapp/lexika/lexikon-in-einfacher-sprache/249952/koerperliche-unversehrtheit/
+      \endverb
+    \endentry
     \entry{noauthor_collective_2025}{online}{}
       \field{sortinit}{D}
       \field{sortinithash}{6f385f66841fb5e82009dc833c761848}
@@ -329,6 +751,120 @@
       \endverb
       \verb{url}
       \verb https://www.merriam-webster.com/dictionary/collective
+      \endverb
+    \endentry
+    \entry{harbath_cambridge_2023}{online}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=6d12e946039c65426b53d683bf7a6b7e}{%
+           family={Harbath},
+           familyi={H\bibinitperiod},
+           given={Katie},
+           giveni={K\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=fd7c186074c8d7cb940c7dc284669567}{%
+           family={Fernekes},
+           familyi={F\bibinitperiod},
+           given={Collier},
+           giveni={C\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{organization}{1}{%
+        {Bipartisan Policy Center}%
+      }
+      \strng{namehash}{fa2afc0afca12231f71841f21fea7713}
+      \strng{fullhash}{fa2afc0afca12231f71841f21fea7713}
+      \strng{bibnamehash}{fa2afc0afca12231f71841f21fea7713}
+      \strng{authorbibnamehash}{fa2afc0afca12231f71841f21fea7713}
+      \strng{authornamehash}{fa2afc0afca12231f71841f21fea7713}
+      \strng{authorfullhash}{fa2afc0afca12231f71841f21fea7713}
+      \field{sortinit}{H}
+      \field{sortinithash}{23a3aa7c24e56cfa16945d55545109b5}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{month}{3}
+      \field{note}{Accessed: 2025-08-02}
+      \field{title}{History of the Cambridge Analytica Controversy}
+      \field{year}{2023}
+      \verb{urlraw}
+      \verb https://www.bipartisanpolicy.org/blog/cambridge-analytica-controversy/
+      \endverb
+      \verb{url}
+      \verb https://www.bipartisanpolicy.org/blog/cambridge-analytica-controversy/
+      \endverb
+    \endentry
+    \entry{jumarang2011}{online}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=3acbf0db28a6b6977cecb4cdd69a28c9}{%
+           family={Jumarang},
+           familyi={J\bibinitperiod},
+           given={Bea\bibnamedelima Kylene},
+           giveni={B\bibinitperiod\bibinitdelim K\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{institution}{1}{%
+        {E-International Relations}%
+      }
+      \strng{namehash}{3acbf0db28a6b6977cecb4cdd69a28c9}
+      \strng{fullhash}{3acbf0db28a6b6977cecb4cdd69a28c9}
+      \strng{bibnamehash}{3acbf0db28a6b6977cecb4cdd69a28c9}
+      \strng{authorbibnamehash}{3acbf0db28a6b6977cecb4cdd69a28c9}
+      \strng{authornamehash}{3acbf0db28a6b6977cecb4cdd69a28c9}
+      \strng{authorfullhash}{3acbf0db28a6b6977cecb4cdd69a28c9}
+      \field{sortinit}{J}
+      \field{sortinithash}{b2f54a9081ace9966a7cb9413811edb4}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{month}{7}
+      \field{note}{Written at De La Salle University Manila, Philippines (DLSU-M), for Mr. Al James D. Untalan. Accessed: 2025-08-02}
+      \field{title}{Realism and Liberalism in Modern International Relations}
+      \field{year}{2011}
+      \verb{urlraw}
+      \verb https://www.e-ir.info/2011/07/02/realism-and-liberalism-in-modern-international-relations/
+      \endverb
+      \verb{url}
+      \verb https://www.e-ir.info/2011/07/02/realism-and-liberalism-in-modern-international-relations/
+      \endverb
+    \endentry
+    \entry{koptyug2025}{online}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=9695a222a0d2bfa300c86e6cf0033a67}{%
+           family={Koptyug},
+           familyi={K\bibinitperiod},
+           given={Evgenia},
+           giveni={E\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {Statista}%
+      }
+      \strng{namehash}{9695a222a0d2bfa300c86e6cf0033a67}
+      \strng{fullhash}{9695a222a0d2bfa300c86e6cf0033a67}
+      \strng{bibnamehash}{9695a222a0d2bfa300c86e6cf0033a67}
+      \strng{authorbibnamehash}{9695a222a0d2bfa300c86e6cf0033a67}
+      \strng{authornamehash}{9695a222a0d2bfa300c86e6cf0033a67}
+      \strng{authorfullhash}{9695a222a0d2bfa300c86e6cf0033a67}
+      \field{sortinit}{K}
+      \field{sortinithash}{c02bf6bff1c488450c352b40f5d853ab}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{month}{1}
+      \field{note}{Accessed: 2025-08-02}
+      \field{title}{Social Media in Germany -- Statistics \& Facts}
+      \field{year}{2025}
+      \verb{urlraw}
+      \verb https://www.statista.com/topics/12991/social-media-in-germany/
+      \endverb
+      \verb{url}
+      \verb https://www.statista.com/topics/12991/social-media-in-germany/
       \endverb
     \endentry
     \entry{lichter_loeffler_siegloch2016}{report}{}
@@ -416,6 +952,51 @@
       \verb{url}
       \verb https://www.mdr.de/geschichte/ns-zeit/politik-gesellschaft/sicherheitsdienst-nationalsozialismus-exklusive-akten-100.html
       \endverb
+    \endentry
+    \entry{courseCompanion2024}{book}{}
+      \name{author}{3}{}{%
+        {{un=0,uniquepart=base,hash=6e41bbe7d2d710dae66fefb719d9e286}{%
+           family={Mooij},
+           familyi={M\bibinitperiod},
+           given={Chiel},
+           giveni={C\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=4fc8cbfee3d93b9599003c3e2525b3f3}{%
+           family={Dhesi},
+           familyi={D\bibinitperiod},
+           given={Emma},
+           giveni={E\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=8435c56389fbe318eccbe1ac1317d749}{%
+           family={Nusseibeh},
+           familyi={N\bibinitperiod},
+           given={Alia},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{location}{1}{%
+        {Oxford}%
+      }
+      \list{publisher}{1}{%
+        {Oxford University Press}%
+      }
+      \strng{namehash}{558827bebc40b49e63c5152315db115c}
+      \strng{fullhash}{fc43387709a8072854b74fab3ef96899}
+      \strng{bibnamehash}{fc43387709a8072854b74fab3ef96899}
+      \strng{authorbibnamehash}{fc43387709a8072854b74fab3ef96899}
+      \strng{authornamehash}{558827bebc40b49e63c5152315db115c}
+      \strng{authorfullhash}{fc43387709a8072854b74fab3ef96899}
+      \field{sortinit}{M}
+      \field{sortinithash}{4625c616857f13d17ce56f7d4f97d451}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{edition}{2024}
+      \field{subtitle}{Oxford Resources for IB Diploma Programme}
+      \field{title}{Global Politics Course Companion}
+      \field{year}{2024}
     \endentry
     \entry{murray2024}{article}{}
       \name{author}{7}{}{%
@@ -591,6 +1172,73 @@
       \endverb
       \verb{url}
       \verb https://www.ohchr.org/en/special-procedures/sr-freedom-of-opinion-and-expression
+      \endverb
+    \endentry
+    \entry{wetzling2023}{report}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=705223ed3b5e25ff08ab6daf91e1094d}{%
+           family={Wetzling},
+           familyi={W\bibinitperiod},
+           given={Thorsten},
+           giveni={T\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{institution}{2}{%
+        {Strauss Center for International Security}%
+        {Law, University of Texas at Austin}%
+      }
+      \strng{namehash}{705223ed3b5e25ff08ab6daf91e1094d}
+      \strng{fullhash}{705223ed3b5e25ff08ab6daf91e1094d}
+      \strng{bibnamehash}{705223ed3b5e25ff08ab6daf91e1094d}
+      \strng{authorbibnamehash}{705223ed3b5e25ff08ab6daf91e1094d}
+      \strng{authornamehash}{705223ed3b5e25ff08ab6daf91e1094d}
+      \strng{authorfullhash}{705223ed3b5e25ff08ab6daf91e1094d}
+      \field{sortinit}{W}
+      \field{sortinithash}{4315d78024d0cea9b57a0c6f0e35ed0d}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{month}{11}
+      \field{series}{Safe and Free: National Security Surveillance and the Rule of Law Across Democratic States}
+      \field{title}{National Security Surveillance in Germany}
+      \field{type}{techreport}
+      \field{year}{2023}
+      \verb{urlraw}
+      \verb https://safeandfree.io/wp-content/uploads/2023/11/Germany_Surveillance_FINAL.pdf
+      \endverb
+      \verb{url}
+      \verb https://safeandfree.io/wp-content/uploads/2023/11/Germany_Surveillance_FINAL.pdf
+      \endverb
+    \endentry
+    \entry{worldometer_germany2025}{online}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=963a563c339e60d42f76f5ec12b3bb8e}{%
+           family={{Worldometer}},
+           familyi={W\bibinitperiod}}}%
+      }
+      \strng{namehash}{963a563c339e60d42f76f5ec12b3bb8e}
+      \strng{fullhash}{963a563c339e60d42f76f5ec12b3bb8e}
+      \strng{bibnamehash}{963a563c339e60d42f76f5ec12b3bb8e}
+      \strng{authorbibnamehash}{963a563c339e60d42f76f5ec12b3bb8e}
+      \strng{authornamehash}{963a563c339e60d42f76f5ec12b3bb8e}
+      \strng{authorfullhash}{963a563c339e60d42f76f5ec12b3bb8e}
+      \field{sortinit}{W}
+      \field{sortinithash}{4315d78024d0cea9b57a0c6f0e35ed0d}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{note}{Accessed: 2025-08-02}
+      \field{title}{Germany Population (2025) - Worldometer}
+      \field{year}{2025}
+      \verb{urlraw}
+      \verb https://www.worldometers.info/world-population/germany-population/
+      \endverb
+      \verb{url}
+      \verb https://www.worldometers.info/world-population/germany-population/
       \endverb
     \endentry
   \enddatalist
