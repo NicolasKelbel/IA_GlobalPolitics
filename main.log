@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.141592653-2.6-0.999995 (MiKTeX 24.1) (preloaded format=xelatex 2025.2.8)  2 AUG 2025 21:07
+This is XeTeX, Version 3.141592653-2.6-0.999995 (MiKTeX 24.1) (preloaded format=xelatex 2025.2.8)  2 AUG 2025 22:02
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -812,17 +812,23 @@ Overfull \hbox (1.99222pt too wide) in paragraph at lines 54--55
 g this dilemma and exploring how surveil-
  []
 
-[2] [3] [4] [5]
+[2] [3] [4]
+Overfull \hbox (0.64926pt too wide) in paragraph at lines 74--75
+[]\TU/TimesNewRoman(0)/m/n/12 To conclude, although at first glance public surv
+eillance undermines certain individual rights,
+ []
+
+[5]
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <12> on input line 104.
+(Font)              <12> on input line 105.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <8> on input line 104.
+(Font)              <8> on input line 105.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <6> on input line 104.
+(Font)              <6> on input line 105.
  [6
 
 ]
-Overfull \hbox (14.80806pt too wide) in paragraph at lines 105--105
+Overfull \hbox (14.80806pt too wide) in paragraph at lines 106--106
 \TU/TimesNewRoman(0)/m/n/12 Center for International Security and Law, Universi
 ty of Texas at Austin. []$[][][][][] [] [] [] [][][][][][][][][][][] []
  []
