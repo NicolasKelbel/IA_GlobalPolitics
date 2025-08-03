@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.141592653-2.6-0.999995 (MiKTeX 24.1) (preloaded format=xelatex 2025.2.8)  3 AUG 2025 19:20
+This is XeTeX, Version 3.141592653-2.6-0.999995 (MiKTeX 24.1) (preloaded format=xelatex 2025.2.8)  3 AUG 2025 23:35
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -814,15 +814,15 @@ g this dilemma and exploring how surveil-
 
 [2] [3] [4] [5] [6]
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <12> on input line 83.
+(Font)              <12> on input line 85.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <8> on input line 83.
+(Font)              <8> on input line 85.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <6> on input line 83.
+(Font)              <6> on input line 85.
  [7
 
 ]
-Overfull \hbox (14.80806pt too wide) in paragraph at lines 84--84
+Overfull \hbox (14.80806pt too wide) in paragraph at lines 86--86
 \TU/TimesNewRoman(0)/m/n/12 Center for International Security and Law, Universi
 ty of Texas at Austin. []$[][][][][] [] [] [] [][][][][][][][][][][] []
  []
@@ -841,7 +841,7 @@ Package logreq Info: Writing requests to 'main.run.xml'.
 Here is how much of TeX's memory you used:
  19153 strings out of 409617
  385034 string characters out of 5773608
- 1939191 words of memory out of 5000000
+ 1938191 words of memory out of 5000000
  41064 multiletter control sequences out of 15000+600000
  564348 words of font info for 70 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191
