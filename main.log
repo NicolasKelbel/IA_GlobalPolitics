@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.141592653-2.6-0.999995 (MiKTeX 24.1) (preloaded format=xelatex 2025.2.8)  2 AUG 2025 22:02
+This is XeTeX, Version 3.141592653-2.6-0.999995 (MiKTeX 24.1) (preloaded format=xelatex 2025.2.8)  3 AUG 2025 19:16
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -812,28 +812,22 @@ Overfull \hbox (1.99222pt too wide) in paragraph at lines 54--55
 g this dilemma and exploring how surveil-
  []
 
-[2] [3] [4]
-Overfull \hbox (0.64926pt too wide) in paragraph at lines 74--75
-[]\TU/TimesNewRoman(0)/m/n/12 To conclude, although at first glance public surv
-eillance undermines certain individual rights,
- []
-
-[5]
+[2] [3] [4] [5] [6]
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <12> on input line 105.
+(Font)              <12> on input line 83.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <8> on input line 105.
+(Font)              <8> on input line 83.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <6> on input line 105.
- [6
+(Font)              <6> on input line 83.
+ [7
 
 ]
-Overfull \hbox (14.80806pt too wide) in paragraph at lines 106--106
+Overfull \hbox (14.80806pt too wide) in paragraph at lines 84--84
 \TU/TimesNewRoman(0)/m/n/12 Center for International Security and Law, Universi
 ty of Texas at Austin. []$[][][][][] [] [] [] [][][][][][][][][][][] []
  []
 
-[7] (main.aux)
+[8] (main.aux)
  ***********
 LaTeX2e <2023-11-01> patch level 1
 L3 programming layer <2024-01-04>
@@ -853,4 +847,4 @@ Here is how much of TeX's memory you used:
  1348 hyphenation exceptions out of 8191
  72i,5n,119p,1580b,5450s stack positions out of 10000i,1000n,20000p,200000b,200000s
 
-Output written on main.pdf (8 pages).
+Output written on main.pdf (9 pages).
