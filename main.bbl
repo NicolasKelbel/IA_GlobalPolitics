@@ -19,6 +19,30 @@
 
 \refsection{0}
   \datalist[entry]{apa/apasortcite//global/global}
+    \entry{gesetzeimInternet_BDSG4}{online}{}
+      \list{organization}{1}{%
+        {Gesetze im Internet (Bundesministerium der Justiz und für Verbraucherschutz, juris GmbH)}%
+      }
+      \field{sortinit}{4}
+      \field{sortinithash}{9381316451d1b9788675a07e972a12a7}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labeltitlesource}{shorttitle}
+      \field{note}{Bundesdatenschutzgesetz (BDSG)}
+      \field{shorttitle}{§ 4 BDSG}
+      \field{title}{§ 4 {BDSG} – Videoüberwachung öffentlich zugänglicher Räume}
+      \field{urlday}{23}
+      \field{urlmonth}{9}
+      \field{urlyear}{2025}
+      \field{year}{2018}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb https://www.gesetze-im-internet.de/bdsg_2018/__4.html
+      \endverb
+      \verb{url}
+      \verb https://www.gesetze-im-internet.de/bdsg_2018/__4.html
+      \endverb
+    \endentry
     \entry{grundgesetz2025}{legislation}{}
       \list{language}{1}{%
         {english}%
@@ -139,6 +163,39 @@
       \endverb
       \verb{url}
       \verb https://www.merriam-webster.com/dictionary/collective
+      \endverb
+    \endentry
+    \entry{googletranslate}{online}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=8b36e9207c24c76e6719268e49201d94}{%
+           family={{Google}},
+           familyi={G\bibinitperiod}}}%
+      }
+      \strng{namehash}{8b36e9207c24c76e6719268e49201d94}
+      \strng{fullhash}{8b36e9207c24c76e6719268e49201d94}
+      \strng{bibnamehash}{8b36e9207c24c76e6719268e49201d94}
+      \strng{authorbibnamehash}{8b36e9207c24c76e6719268e49201d94}
+      \strng{authornamehash}{8b36e9207c24c76e6719268e49201d94}
+      \strng{authorfullhash}{8b36e9207c24c76e6719268e49201d94}
+      \field{sortinit}{G}
+      \field{sortinithash}{32d67eca0634bf53703493fb1090a2e8}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{note}{Machine translation service}
+      \field{title}{Google Translate}
+      \field{urlday}{23}
+      \field{urlmonth}{9}
+      \field{urlyear}{2025}
+      \field{year}{2025}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb https://translate.google.com
+      \endverb
+      \verb{url}
+      \verb https://translate.google.com
       \endverb
     \endentry
     \entry{harbath_cambridge_2023}{online}{}
@@ -519,6 +576,47 @@
       \verb https://peasec.de/
       \endverb
     \endentry
+    \entry{schonbein_weapon_2025}{online}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=43334a0525bf7f91da6d73640e47514c}{%
+           family={Schönbein},
+           familyi={S\bibinitperiod},
+           given={Arthur},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{43334a0525bf7f91da6d73640e47514c}
+      \strng{fullhash}{43334a0525bf7f91da6d73640e47514c}
+      \strng{bibnamehash}{43334a0525bf7f91da6d73640e47514c}
+      \strng{authorbibnamehash}{43334a0525bf7f91da6d73640e47514c}
+      \strng{authornamehash}{43334a0525bf7f91da6d73640e47514c}
+      \strng{authorfullhash}{43334a0525bf7f91da6d73640e47514c}
+      \field{sortinit}{S}
+      \field{sortinithash}{b164b07b29984b41daf1e85279fbc5ab}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{There has been a weapon ban zone on Luisenplatz in Darmstadt since June 5. The city and police thus set a clear signal against violence.}
+      \field{day}{12}
+      \field{langid}{english}
+      \field{month}{6}
+      \field{title}{Weapon ban zone Luisenplatz Darmstadt in force}
+      \field{titleaddon}{da.news}
+      \field{urlday}{23}
+      \field{urlmonth}{9}
+      \field{urlyear}{2025}
+      \field{year}{2025}
+      \field{dateera}{ce}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb https://da.news/en/weapon-ban-zone-luisenplatz-darmstadt/
+      \endverb
+      \verb{url}
+      \verb https://da.news/en/weapon-ban-zone-luisenplatz-darmstadt/
+      \endverb
+    \endentry
     \entry{noauthor_security_2025}{online}{}
       \field{sortinit}{S}
       \field{sortinithash}{b164b07b29984b41daf1e85279fbc5ab}
@@ -598,6 +696,46 @@
       \endverb
       \verb{url}
       \verb https://safeandfree.io/wp-content/uploads/2023/11/Germany_Surveillance_FINAL.pdf
+      \endverb
+    \endentry
+    \entry{magistratsbeschluss_luisenplatz_2020}{misc}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=850d93071a8c36793dbe47c7c5f70f41}{%
+           family={{Wissenschaftsstadt Darmstadt, Magistrat}},
+           familyi={W\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Darmstadt}%
+      }
+      \strng{namehash}{850d93071a8c36793dbe47c7c5f70f41}
+      \strng{fullhash}{850d93071a8c36793dbe47c7c5f70f41}
+      \strng{bibnamehash}{850d93071a8c36793dbe47c7c5f70f41}
+      \strng{authorbibnamehash}{850d93071a8c36793dbe47c7c5f70f41}
+      \strng{authornamehash}{850d93071a8c36793dbe47c7c5f70f41}
+      \strng{authorfullhash}{850d93071a8c36793dbe47c7c5f70f41}
+      \field{sortinit}{W}
+      \field{sortinithash}{4315d78024d0cea9b57a0c6f0e35ed0d}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{day}{22}
+      \field{howpublished}{Magistratsvorlage Nr. 2020/0013, Beschluss Nr. 24}
+      \field{month}{1}
+      \field{note}{Unterzeichnet von Jochen Partsch (Oberbürgermeister), Rafael Reißer (Bürgermeister), André Schellenberg (Stadtkämmerer)}
+      \field{title}{Magistratsbeschluss: Videoüberwachung auf dem Luisenplatz}
+      \field{urlday}{23}
+      \field{urlmonth}{9}
+      \field{urlyear}{2025}
+      \field{year}{2020}
+      \field{dateera}{ce}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb https://ddrm.de/wp-content/uploads/Magistratsbeschluss-Video%C3%BCberwachung-Luisenplatz-2020.01.22.pdf
+      \endverb
+      \verb{url}
+      \verb https://ddrm.de/wp-content/uploads/Magistratsbeschluss-Video%C3%BCberwachung-Luisenplatz-2020.01.22.pdf
       \endverb
     \endentry
     \entry{worldometer_germany2025}{online}{}
@@ -631,6 +769,30 @@
     \endentry
   \enddatalist
   \datalist[entry]{apa/global//global/global}
+    \entry{gesetzeimInternet_BDSG4}{online}{}
+      \list{organization}{1}{%
+        {Gesetze im Internet (Bundesministerium der Justiz und für Verbraucherschutz, juris GmbH)}%
+      }
+      \field{sortinit}{4}
+      \field{sortinithash}{9381316451d1b9788675a07e972a12a7}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labeltitlesource}{shorttitle}
+      \field{note}{Bundesdatenschutzgesetz (BDSG)}
+      \field{shorttitle}{§ 4 BDSG}
+      \field{title}{§ 4 {BDSG} – Videoüberwachung öffentlich zugänglicher Räume}
+      \field{urlday}{23}
+      \field{urlmonth}{9}
+      \field{urlyear}{2025}
+      \field{year}{2018}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb https://www.gesetze-im-internet.de/bdsg_2018/__4.html
+      \endverb
+      \verb{url}
+      \verb https://www.gesetze-im-internet.de/bdsg_2018/__4.html
+      \endverb
+    \endentry
     \entry{grundgesetz2025}{legislation}{}
       \list{language}{1}{%
         {english}%
@@ -751,6 +913,39 @@
       \endverb
       \verb{url}
       \verb https://www.merriam-webster.com/dictionary/collective
+      \endverb
+    \endentry
+    \entry{googletranslate}{online}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=8b36e9207c24c76e6719268e49201d94}{%
+           family={{Google}},
+           familyi={G\bibinitperiod}}}%
+      }
+      \strng{namehash}{8b36e9207c24c76e6719268e49201d94}
+      \strng{fullhash}{8b36e9207c24c76e6719268e49201d94}
+      \strng{bibnamehash}{8b36e9207c24c76e6719268e49201d94}
+      \strng{authorbibnamehash}{8b36e9207c24c76e6719268e49201d94}
+      \strng{authornamehash}{8b36e9207c24c76e6719268e49201d94}
+      \strng{authorfullhash}{8b36e9207c24c76e6719268e49201d94}
+      \field{sortinit}{G}
+      \field{sortinithash}{32d67eca0634bf53703493fb1090a2e8}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{note}{Machine translation service}
+      \field{title}{Google Translate}
+      \field{urlday}{23}
+      \field{urlmonth}{9}
+      \field{urlyear}{2025}
+      \field{year}{2025}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb https://translate.google.com
+      \endverb
+      \verb{url}
+      \verb https://translate.google.com
       \endverb
     \endentry
     \entry{harbath_cambridge_2023}{online}{}
@@ -1131,6 +1326,47 @@
       \verb https://peasec.de/
       \endverb
     \endentry
+    \entry{schonbein_weapon_2025}{online}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=43334a0525bf7f91da6d73640e47514c}{%
+           family={Schönbein},
+           familyi={S\bibinitperiod},
+           given={Arthur},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{43334a0525bf7f91da6d73640e47514c}
+      \strng{fullhash}{43334a0525bf7f91da6d73640e47514c}
+      \strng{bibnamehash}{43334a0525bf7f91da6d73640e47514c}
+      \strng{authorbibnamehash}{43334a0525bf7f91da6d73640e47514c}
+      \strng{authornamehash}{43334a0525bf7f91da6d73640e47514c}
+      \strng{authorfullhash}{43334a0525bf7f91da6d73640e47514c}
+      \field{sortinit}{S}
+      \field{sortinithash}{b164b07b29984b41daf1e85279fbc5ab}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{There has been a weapon ban zone on Luisenplatz in Darmstadt since June 5. The city and police thus set a clear signal against violence.}
+      \field{day}{12}
+      \field{langid}{english}
+      \field{month}{6}
+      \field{title}{Weapon ban zone Luisenplatz Darmstadt in force}
+      \field{titleaddon}{da.news}
+      \field{urlday}{23}
+      \field{urlmonth}{9}
+      \field{urlyear}{2025}
+      \field{year}{2025}
+      \field{dateera}{ce}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb https://da.news/en/weapon-ban-zone-luisenplatz-darmstadt/
+      \endverb
+      \verb{url}
+      \verb https://da.news/en/weapon-ban-zone-luisenplatz-darmstadt/
+      \endverb
+    \endentry
     \entry{noauthor_security_2025}{online}{}
       \field{sortinit}{S}
       \field{sortinithash}{b164b07b29984b41daf1e85279fbc5ab}
@@ -1210,6 +1446,46 @@
       \endverb
       \verb{url}
       \verb https://safeandfree.io/wp-content/uploads/2023/11/Germany_Surveillance_FINAL.pdf
+      \endverb
+    \endentry
+    \entry{magistratsbeschluss_luisenplatz_2020}{misc}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=850d93071a8c36793dbe47c7c5f70f41}{%
+           family={{Wissenschaftsstadt Darmstadt, Magistrat}},
+           familyi={W\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Darmstadt}%
+      }
+      \strng{namehash}{850d93071a8c36793dbe47c7c5f70f41}
+      \strng{fullhash}{850d93071a8c36793dbe47c7c5f70f41}
+      \strng{bibnamehash}{850d93071a8c36793dbe47c7c5f70f41}
+      \strng{authorbibnamehash}{850d93071a8c36793dbe47c7c5f70f41}
+      \strng{authornamehash}{850d93071a8c36793dbe47c7c5f70f41}
+      \strng{authorfullhash}{850d93071a8c36793dbe47c7c5f70f41}
+      \field{sortinit}{W}
+      \field{sortinithash}{4315d78024d0cea9b57a0c6f0e35ed0d}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{day}{22}
+      \field{howpublished}{Magistratsvorlage Nr. 2020/0013, Beschluss Nr. 24}
+      \field{month}{1}
+      \field{note}{Unterzeichnet von Jochen Partsch (Oberbürgermeister), Rafael Reißer (Bürgermeister), André Schellenberg (Stadtkämmerer)}
+      \field{title}{Magistratsbeschluss: Videoüberwachung auf dem Luisenplatz}
+      \field{urlday}{23}
+      \field{urlmonth}{9}
+      \field{urlyear}{2025}
+      \field{year}{2020}
+      \field{dateera}{ce}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb https://ddrm.de/wp-content/uploads/Magistratsbeschluss-Video%C3%BCberwachung-Luisenplatz-2020.01.22.pdf
+      \endverb
+      \verb{url}
+      \verb https://ddrm.de/wp-content/uploads/Magistratsbeschluss-Video%C3%BCberwachung-Luisenplatz-2020.01.22.pdf
       \endverb
     \endentry
     \entry{worldometer_germany2025}{online}{}

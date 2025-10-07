@@ -8,6 +8,13 @@
 \usepackage{hyperref}             
 \usepackage[backend=biber, style=apa]{biblatex} % citing
 \usepackage{fontspec} % font
+\usepackage[toc]{appendix}
+\usepackage{float} % for figure positioning
+\usepackage[font=small,labelfont=bf]{caption}
+\usepackage[most]{tcolorbox}
+\usepackage[noabbrev,nameinlink]{cleveref}
+\usepackage{enumitem}
+
 
 % Settings
 \doublespacing
@@ -15,6 +22,16 @@
 
 \setmainfont{Times New Roman}
 \setmonofont{Lucida Console}[Scale=MatchLowercase]
+
+\newcommand{\quotecard}[2]{%
+	\begin{center}
+		\begin{minipage}{0.93\linewidth}
+			\hrule\vspace{6pt}
+			#2
+			\vspace{6pt}\hrule
+		\end{minipage}
+	\end{center}
+}
 
 % ===== Begin Document =====
 \begin{document}
@@ -37,7 +54,7 @@
 		\vspace{4cm}
 		
 		Word count:\\
-		1995
+		...
 		
 		\vfill
 	\end{titlepage}
@@ -47,7 +64,7 @@
 		
 	Germany, embossed by its historical legacy of state surveillance \textemdash\ under the Nazi regime \parencite{mdrde_uberwachung_nodate} and the GDR \parencite{lichter_loeffler_siegloch2016} \textemdash\ has developed a multifaceted and intricate legal framework governing this issue. Within this context, Darmstadt emerges as an ideal case study.
 	
-	Home to the Luisenplatz \textemdash\ the central square and primary transfer hub for the area's public transportation network \textemdash\ Darmstadt embodies the urban environment where surveillance is most prominent. I have personally traversed this square countless times \textemdash\ on my way to meet up with friends or to go shopping in the vast variety of stores offered \textemdash\ and became increasingly conscious of the surveillance cameras. Realizing that any person residing on the square was being recorded without explicit consent led me to question the legitimacy of these systems \textemdash\ culminating into the research question of this paper: \textit{To what extent does the use of public surveillance in Darmstadt challenge the balance between collective security and individual rights?}.
+	Home to the Luisenplatz \textemdash\ the central square and primary transfer hub for the area's public transportation network \textemdash\ Darmstadt embodies the urban environment where surveillance is most prominent, with the square alone accounting for close to 175 criminal offenses across 2023 and the first half of 2024 \parencite{schonbein_weapon_2025}. I have personally traversed this square countless times \textemdash\ on my way to meet up with friends or to go shopping in the vast variety of stores offered \textemdash\ and became increasingly conscious of the surveillance cameras \textemdash\ see \Cref{sec:luisenplatz-map}. Realizing that any person residing on the square was being recorded without explicit consent led me to question the legitimacy of these systems \textemdash\ culminating into the research question of this paper: \textit{To what extent does the use of public surveillance in Darmstadt challenge the balance between collective security and individual rights?}.
 	
 	This investigation is deeply anchored in the core concepts of the Global Politics course, particularly \textit{Power} and \textit{Legitimacy}. The implementation of surveillance exemplifies power of political actors in both its hard and soft forms \parencite{courseCompanion2024}\ \textemdash\ the collection of information in order to pursue objectives such as maintaining public order, and through the potential ``chilling effect'' induced by state observation \parencite{murray2024}. One is confronted with the legitimacy of the authority of these political actors, examining whether their actions retain the democratic values instilled within Germany's constitution. Furthermore, it is also related to the thematic studies \textit{Peace and Conflict} and \textit{Rights and Justice}. Proponents of surveillance argue it is essential for ensuring peace and shielding the population from violence. Nevertheless, the utilization surveillance systems must be weighed against human rights considerations.
 	
@@ -57,7 +74,7 @@
 	
 	The interview with Wandrey was selected due to his position at the forefront of the local decision-making process, providing crucial insight into the political rationale behind the use of surveillance. As part of the City Council, Wandrey has access to precise information regarding the implementation of and feedback concerning surveillance in Darmstadt \textemdash\ offsetting the shortcomings regarding concrete information of the interview with Reuter. In agreement with Reuter, Wandrey emphasized the concept of proportionality and supported regulated artificial intelligence driven surveillance systems. Moreover, he highlighted the paradox of usage of social media and explained measures facilitating an elevated level of privacy.
 	
-	Both interviews were video conferences conducted via Microsoft Teams \textemdash\ in exchange for in-person interviews \textemdash\ acknowledging its flexibility and greater time efficiency, improving the likelihood of securing an interview. A list of questions formulated before the interviews acted as guidance. The interviews were recorded \textemdash\ with consent \textemdash\ and transcribed for later reference.
+	Both interviews were video conferences conducted via Microsoft Teams \textemdash\ in exchange for in-person interviews \textemdash\ acknowledging its flexibility and greater time efficiency, improving the likelihood of securing an interview. A list of questions formulated before the interviews acted as guidance. The interviews were recorded \textemdash\ with consent \textemdash\ and transcribed for later reference \textemdash\ see \Cref{app:interviews}. 
 	
 	At face value, the mere employment of surveillance undermines various inherent human rights. The collection of private data, interaction logs and activity patterns through surveillance partially or even fully undermines an individual's right to privacy, challenging Articles 1(1) and 10(1) of the \textit{Grundgesetz} (German Basic Law) \parencites{nandy2023, wetzling2023, grundgesetz2025}. Furthermore, the omnipresent nature of surveillance may lead to ``self-censor[ship]'', suppressed public dialog and the restraining of free and open discourse \textemdash\ ``chilling effect'' \textemdash\ and contests Article 5(1) by compromising the right of freedom of expression \parencite{murray2024}. A reluctance to participate in non-violent demonstrations or civil society organizations may develop out of the concern of becoming a potential target \textemdash\ curtailing the right to assemble and associate with others under Articles 8(1) and 9(1). Lastly, surveillance systems may exhibit structural bias \textemdash\ possibly diminishing principles of equality and non-discrimination given by Article 3(3). When viewed through the lens of liberalism, especially the interpretation proposed by Judith Shklar \textemdash\ liberalism's main objective is to ensure a political landscape in which individuals are able to exercise their personal freedom \textemdash\ such surveillance systems raise existential concerns about the erosion of the very freedoms the state is meant to protect \parencite[684]{bell2014}.
 	
@@ -65,7 +82,7 @@
 	
 	However, as Reuter also notes, it is quintessential to also consider the potentially advantageous impact of surveillance on certain individual liberties. Article 2(2) of the Grundgesetz guarantees the right to \textit{Körperliche Unversehrheit} (Physical Integrity), protecting individuals from bodily harm, torture and other infringements on physical integrity \parencite{bildung_korperliche_nodate}. Given that surveillance primarily functions to both deter and investigate criminal activity \textemdash\ as underscored by Wandrey \textemdash\ it serves to strengthen the collective security of the populace, thereby affirming the protection of the right to \textit{Körperliche Unversehrheit}. Placing heightened focus on security is in line with defensive realism \parencite{courseCompanion2024}, a political theory opposing liberalism \parencite{jumarang2011}.  
 	
-	Furthermore, as Wandrey stresses, it is highly necessary to examine the regulations under which surveillance in Darmstadt is conducted. Firstly, with a daily foot traffic of well above 100,000 individuals \textemdash\ a figure provided by Wandrey \textemdash\ Luisenplatz can be considered a major public hotspot \textemdash\ providing justification given the amplified probability of criminal activities. The requirement to justify surveillance measures every two years ensures that they are reflective of the present circumstances and evolving societal needs. In an attempt to combat the ``chilling effect'', demonstrations or assemblies can be registered \textemdash\ without the need for approval \textemdash\ which automatically triggers the deactivation of surveillance through a physical cover during the registered time period. Hospitality zones are not surveilled during operation hours, providing their customers with elevated privacy. Lastly, there are defined periods for which the surveillance footage may be stored and access to it is heavily restricted, further promoting the privacy of the individual. 
+	Furthermore, as Wandrey stresses, it is highly necessary to examine the regulations under which surveillance in Darmstadt is conducted. Firstly, with a daily foot traffic of well above 100,000 individuals \textemdash\ a figure provided by Wandrey \textemdash\ Luisenplatz can be considered a major public hotspot \textemdash\ providing justification given the amplified probability of criminal activities. The requirement to justify surveillance measures every two years ensures that they are reflective of the present circumstances and evolving societal needs. In an attempt to combat the ``chilling effect'', demonstrations or assemblies can be registered \textemdash\ without the need for approval \textemdash\ which automatically triggers the deactivation of surveillance through a physical cover during the registered time period. Hospitality zones are not surveilled during operation hours, providing their customers with elevated privacy. Lastly, as per Article 4(5) of the Bundesdatenschutzgesetz (German Federal Data Protection Act), there are defined periods for which the surveillance footage may be stored and access to it is heavily restricted, further promoting the privacy of the individual \parencite{gesetzeimInternet_BDSG4}. 
 	
 	A particularly compelling and often overlooked argument mentioned by Wandrey concerns the paradoxical relationship between public surveillance and the widespread usage of social media. In Germany, the majority of the population use social media platforms \parencite{koptyug2025, worldometer_germany2025}, and by doing so, voluntarily disclosing vast amounts of personal data to multinational technology giants such as Meta. Unlike governmental bodies \textemdash\ who are subject to stringent constitutional and legislative constraints \textemdash\ these corporations face fewer legal obligations, resulting in a greater likelihood of mishandling personal data, as exemplified by the Cambridge Analytica scandal that erupted 2018 \parencite{harbath_cambridge_2023}. Social constructivism \textemdash\ a political theory that suggests social reality shapes human behavior and one must critically assess if these actions yield beneficial outcomes for the population \textemdash\ provides a meaningful perspective on the contradiction, highlighting that public reactions to surveillance may be attributed to socially constructed norms rather than objective assessment of dangers \parencite{courseCompanion2024}. 
 	
@@ -83,5 +100,67 @@
 	\clearpage
 	
 	\printbibliography
+	
+	\clearpage
+	
+	\begin{appendices}
+		\section{Map of Luisenplatz}
+		\label{sec:luisenplatz-map}
+		
+		\begin{figure}[H]
+			\centering
+			\includegraphics[width=0.8\textwidth]{images/vü-luisenplatz-darmstadt.png} 
+			\caption{Map of Luisenplatz (Darmstadt) with marked positions of the video surveillance cameras \parencite{magistratsbeschluss_luisenplatz_2020}.}
+		\end{figure}
+		
+		\clearpage
+		
+		\section{Interviews}
+		\label{app:interviews}
+		
+		\subsection{Interview Questions}
+		
+		\begin{figure}[H]
+			\begin{enumerate}[itemsep=0.1em, topsep=0.1em]
+				\footnotesize
+				\item How would you, as an expert in the field of security and technology, describe the relationship between public surveillance and collective security in general?
+				\item What typical areas of tension do you see between the protection of individual rights – in particular privacy – and security policy objectives in public space?
+				\item Which local factors – such as technology, urban structure, or societal culture – in your view influence surveillance practices in Darmstadt?
+				\item Would you say that Darmstadt currently maintains a balanced relationship between security interests and the protection of individual rights – or is this balance increasingly under pressure?
+				\item Have there been situations in the recent past in which this balance was publicly discussed or called into question?
+				\item In your observation, how does the presence of public surveillance influence the behavior of people in Darmstadt – for example, during demonstrations or political gatherings?
+				\item Do you observe a so-called ``Chilling Effect'' – meaning that people change their behavior because they feel observed – or is surveillance here largely accepted?
+				\item In your opinion, are the groups most affected by surveillance – such as young people or activists – sufficiently included in political decision-making processes?
+				\item Which democratic control mechanisms do you consider particularly important to ensure an appropriate balance between security and fundamental rights?
+				\item What risks do you see if surveillance infrastructures continue to expand without sufficient public oversight or debate?
+				\item If you could make one concrete recommendation to the city – what would, in your opinion, be the most urgent improvement in this field of tension?
+				\item From your perspective, is there an aspect of public surveillance – particularly in Darmstadt – that has so far received too little attention in public or political debate?
+			\end{enumerate}
+			\caption{List of guiding questions used for each interview. Both interviews were conducted in German and subsequently translated in English using \textcite{googletranslate}.}
+		\end{figure}
+		
+		\subsection{Selected Interview Excerpts}
+		
+		\subsubsection{Interview with Paul Georg Wandrey}
+
+		\vspace{0.8em}
+		\quotecard{wandrey}{
+			\textbf{Q:} What tensions do you see between individual privacy and public surveillance? \\[4pt]
+			\textbf{A:} “...because people often argue with data protection, which is somewhat paradoxical, since on the other hand, never before has so much been shared on social media, and people upload all sorts of things to data giants.” \\[6pt]
+			\emph{An excerpt of a particularly compelling answer given by Wandrey, translated from German into English using \textcite{googletranslate}.}
+		}
+		
+		\vspace{1.5em}
+		
+		\subsubsection{Interview with Prof. Dr. Dr. Reuter}
+		\vspace{0.8em}
+		\quotecard{reuter}{
+			\textbf{Q:} How do you see the risk that surveillance prevents people from freely expressing their opinions? \\[4pt]
+			\textbf{A:} “Absolutely. On many, many levels I see this as critical. ... sometimes one just wants to speak frankly and get straight to the point ... and not have a partial quotation of five words taken out of context and possibly misinterpreted. That is, of course, the very big danger I see.” \\[6pt]
+			\emph{A segment of a notably compelling response by Reuter, translated from German into English using \textcite{googletranslate}.}
+		}
+		
+		
+	\end{appendices}
 	
 \end{document}

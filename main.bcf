@@ -3065,22 +3065,34 @@
     <bcf:citekey order="4" intorder="1">noauthor_special_nodate</bcf:citekey>
     <bcf:citekey order="5" intorder="1">mdrde_uberwachung_nodate</bcf:citekey>
     <bcf:citekey order="6" intorder="1">lichter_loeffler_siegloch2016</bcf:citekey>
-    <bcf:citekey order="7" intorder="1">courseCompanion2024</bcf:citekey>
-    <bcf:citekey order="8" intorder="1">murray2024</bcf:citekey>
-    <bcf:citekey order="9" intorder="1">noauthor_peasec_2025</bcf:citekey>
-    <bcf:citekey order="10" intorder="1">nandy2023</bcf:citekey>
-    <bcf:citekey order="10" intorder="2">wetzling2023</bcf:citekey>
-    <bcf:citekey order="10" intorder="3">grundgesetz2025</bcf:citekey>
-    <bcf:citekey order="11" intorder="1">murray2024</bcf:citekey>
-    <bcf:citekey order="12" intorder="1">bell2014</bcf:citekey>
-    <bcf:citekey order="13" intorder="1">bildung_korperliche_nodate</bcf:citekey>
-    <bcf:citekey order="14" intorder="1">courseCompanion2024</bcf:citekey>
-    <bcf:citekey order="15" intorder="1">jumarang2011</bcf:citekey>
-    <bcf:citekey order="16" intorder="1">koptyug2025</bcf:citekey>
-    <bcf:citekey order="16" intorder="2">worldometer_germany2025</bcf:citekey>
-    <bcf:citekey order="17" intorder="1">harbath_cambridge_2023</bcf:citekey>
-    <bcf:citekey order="18" intorder="1">courseCompanion2024</bcf:citekey>
-    <bcf:citekey order="19" intorder="1">wetzling2023</bcf:citekey>
+    <bcf:citekey order="7" intorder="1">schonbein_weapon_2025</bcf:citekey>
+    <bcf:citekey order="8" intorder="1">courseCompanion2024</bcf:citekey>
+    <bcf:citekey order="9" intorder="1">murray2024</bcf:citekey>
+    <bcf:citekey order="10" intorder="1">noauthor_peasec_2025</bcf:citekey>
+    <bcf:citekey order="11" intorder="1">nandy2023</bcf:citekey>
+    <bcf:citekey order="11" intorder="2">wetzling2023</bcf:citekey>
+    <bcf:citekey order="11" intorder="3">grundgesetz2025</bcf:citekey>
+    <bcf:citekey order="12" intorder="1">murray2024</bcf:citekey>
+    <bcf:citekey order="13" intorder="1">bell2014</bcf:citekey>
+    <bcf:citekey order="14" intorder="1">bildung_korperliche_nodate</bcf:citekey>
+    <bcf:citekey order="15" intorder="1">courseCompanion2024</bcf:citekey>
+    <bcf:citekey order="16" intorder="1">jumarang2011</bcf:citekey>
+    <bcf:citekey order="17" intorder="1">gesetzeimInternet_BDSG4</bcf:citekey>
+    <bcf:citekey order="18" intorder="1">koptyug2025</bcf:citekey>
+    <bcf:citekey order="18" intorder="2">worldometer_germany2025</bcf:citekey>
+    <bcf:citekey order="19" intorder="1">harbath_cambridge_2023</bcf:citekey>
+    <bcf:citekey order="20" intorder="1">courseCompanion2024</bcf:citekey>
+    <bcf:citekey order="21" intorder="1">wetzling2023</bcf:citekey>
+    <bcf:citekey order="22" intorder="1">magistratsbeschluss_luisenplatz_2020</bcf:citekey>
+    <bcf:citekey order="23" intorder="1">magistratsbeschluss_luisenplatz_2020</bcf:citekey>
+    <bcf:citekey order="24" intorder="1">googletranslate</bcf:citekey>
+    <bcf:citekey order="25" intorder="1">googletranslate</bcf:citekey>
+    <bcf:citekey order="26" intorder="1">googletranslate</bcf:citekey>
+    <bcf:citekey order="27" intorder="1">googletranslate</bcf:citekey>
+    <bcf:citekey order="28" intorder="1">googletranslate</bcf:citekey>
+    <bcf:citekey order="29" intorder="1">googletranslate</bcf:citekey>
+    <bcf:citekey order="30" intorder="1">googletranslate</bcf:citekey>
+    <bcf:citekey order="31" intorder="1">googletranslate</bcf:citekey>
   </bcf:section>
   <!-- SORTING TEMPLATES -->
   <bcf:sortingtemplate name="apa">
@@ -3103,15 +3115,18 @@
     <bcf:sort order="5">
       <bcf:sortitem order="1">sortyear</bcf:sortitem>
       <bcf:sortitem order="2">year</bcf:sortitem>
-      <bcf:sortitem literal="1" order="3">-2000000000</bcf:sortitem>
+      <bcf:sortitem order="3">eventyear</bcf:sortitem>
+      <bcf:sortitem literal="1" order="4">-2000000000</bcf:sortitem>
     </bcf:sort>
     <bcf:sort order="6">
       <bcf:sortitem order="1">month</bcf:sortitem>
-      <bcf:sortitem literal="1" order="2">-2000000000</bcf:sortitem>
+      <bcf:sortitem order="2">eventmonth</bcf:sortitem>
+      <bcf:sortitem literal="1" order="3">-2000000000</bcf:sortitem>
     </bcf:sort>
     <bcf:sort order="7">
       <bcf:sortitem order="1">day</bcf:sortitem>
-      <bcf:sortitem literal="1" order="2">-2000000000</bcf:sortitem>
+      <bcf:sortitem order="2">eventday</bcf:sortitem>
+      <bcf:sortitem literal="1" order="3">-2000000000</bcf:sortitem>
     </bcf:sort>
     <bcf:sort order="8">
       <bcf:sortitem order="1">sorttitle</bcf:sortitem>
